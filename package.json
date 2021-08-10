@@ -1,0 +1,42 @@
+{
+  "name": "rpi-heals-persona-store",
+  "version": "1.0.0",
+  "description": "CRUD application for HEALS personas",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --coverage --detectOpenHandles",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "stouffers",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "mongoose": "^5.13.6"
+  },
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^2.0.1",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "mongodb-memory-server": "^7.3.6",
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2",
+    "prettier-eslint": "^13.0.0",
+    "supertest": "^6.1.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "preset": "@shelf/jest-mongodb",
+    "setupFilesAfterEnv": [
+      "./src/test/jest.setup.js"
+    ]
+  }
+}

@@ -1,0 +1,1559 @@
+{
+    "persona": 1,
+    "personal_info": {
+        "first_name": "Jennifer",
+        "username": "Jennifer",
+        "last_name": "Anisfeld",
+        "profile_image": "jennifer_anisfeld.svg",
+        "gender": "Female",
+        "age": 35,
+        "weight": 135,
+        "height": "5'5",
+        "status": "Diabetic, Fixed Insulin Dosing",
+        "goal": "Maintain",
+        "likes": "Cheese, Bread, Chocolate, Coconut",
+        "dislikes": "Brussel Sprouts",
+        "restrictions": "Peanuts",
+        "guidelines": [
+            "DG02",
+            "DG05",
+            "DG17"
+        ],
+        "performance_data": [
+            {
+                "date": "2020-04-20",
+                "meal": "breakfast",
+                "calories": 395,
+                "carbohydrates": 3.7,
+                "fat": 34.6,
+                "satfat": 17.1,
+                "protein": 17.6,
+                "sodium": 0.4317,
+                "sugar": 1.2
+            },
+            {
+                "date": "2020-04-20",
+                "meal": "lunch",
+                "calories": 493.5,
+                "carbohydrates": 29.5,
+                "fat": 31.2,
+                "satfat": 10.5,
+                "protein": 22.9,
+                "sodium": 1.3671,
+                "sugar": 5.1
+            },
+            {
+                "date": "2020-04-20",
+                "meal": "dinner",
+                "calories": 136.1,
+                "carbohydrates": 16.2,
+                "fat": 4.7,
+                "satfat": 1.4,
+                "protein": 6.6,
+                "sodium": 1.6322999999999999,
+                "sugar": 0.5
+            },
+            {
+                "date": "2020-04-21",
+                "meal": "breakfast",
+                "calories": 317.6,
+                "carbohydrates": 42.9,
+                "fat": 14.7,
+                "satfat": 5.7,
+                "protein": 6.1,
+                "sodium": 0.24980000000000002,
+                "sugar": 24.6
+            },
+            {
+                "date": "2020-04-21",
+                "meal": "lunch",
+                "calories": 199.6,
+                "carbohydrates": 1.2,
+                "fat": 15.1,
+                "satfat": 9.7,
+                "protein": 14.6,
+                "sodium": 0.4982,
+                "sugar": 0.3
+            },
+            {
+                "date": "2020-04-21",
+                "meal": "dinner",
+                "calories": 306.6,
+                "carbohydrates": 11.9,
+                "fat": 28.4,
+                "satfat": 17,
+                "protein": 2,
+                "sodium": 0.0247,
+                "sugar": 9.9
+            },
+            {
+                "date": "2020-04-22",
+                "meal": "breakfast",
+                "calories": 263.9,
+                "carbohydrates": 34.3,
+                "fat": 11.6,
+                "satfat": 6.8,
+                "protein": 5.7,
+                "sodium": 0.3054,
+                "sugar": 9.1
+            },
+            {
+                "date": "2020-04-22",
+                "meal": "lunch",
+                "calories": 490.1,
+                "carbohydrates": 34.8,
+                "fat": 29.5,
+                "satfat": 8.8,
+                "protein": 22.5,
+                "sodium": 1.7098,
+                "sugar": 0.8
+            },
+            {
+                "date": "2020-04-22",
+                "meal": "dinner",
+                "calories": 56.6,
+                "carbohydrates": 11.3,
+                "fat": 1.2,
+                "satfat": 0.1,
+                "protein": 1.9,
+                "sodium": 0.0412,
+                "sugar": 4.7
+            },
+            {
+                "date": "2020-04-23",
+                "meal": "breakfast",
+                "calories": 117.8,
+                "carbohydrates": 18.7,
+                "fat": 3.4,
+                "satfat": 1.9,
+                "protein": 3.1,
+                "sodium": 0.1293,
+                "sugar": 6.1
+            },
+            {
+                "date": "2020-04-23",
+                "meal": "lunch",
+                "calories": 361.1,
+                "carbohydrates": 22.9,
+                "fat": 23.7,
+                "satfat": 11.6,
+                "protein": 14.9,
+                "sodium": 1.3569,
+                "sugar": 2.2
+            },
+            {
+                "date": "2020-04-23",
+                "meal": "dinner",
+                "calories": 232.5,
+                "carbohydrates": 62.8,
+                "fat": 0.3,
+                "satfat": 0,
+                "protein": 1.1,
+                "sodium": 0.0050999999999999995,
+                "sugar": 49.6
+            },
+            {
+                "date": "2020-04-24",
+                "meal": "breakfast",
+                "calories": 219,
+                "carbohydrates": 34.6,
+                "fat": 8.8,
+                "satfat": 5,
+                "protein": 3.9,
+                "sodium": 0.09409999999999999,
+                "sugar": 12.8
+            },
+            {
+                "date": "2020-04-24",
+                "meal": "lunch",
+                "calories": 148.1,
+                "carbohydrates": 16.1,
+                "fat": 8,
+                "satfat": 3,
+                "protein": 3.3,
+                "sodium": 0.2044,
+                "sugar": 2.7
+            },
+            {
+                "date": "2020-04-24",
+                "meal": "dinner",
+                "calories": 1250.7,
+                "carbohydrates": 11.7,
+                "fat": 93.7,
+                "satfat": 42.1,
+                "protein": 88.6,
+                "sodium": 0.3865,
+                "sugar": 0.7
+            },
+            {
+                "date": "2020-04-25",
+                "meal": "breakfast",
+                "calories": 245.5,
+                "carbohydrates": 36.9,
+                "fat": 6.6,
+                "satfat": 2.4,
+                "protein": 9.8,
+                "sodium": 0.4077,
+                "sugar": 7.3
+            },
+            {
+                "date": "2020-04-25",
+                "meal": "lunch",
+                "calories": 702.1,
+                "carbohydrates": 19.2,
+                "fat": 51.6,
+                "satfat": 25.7,
+                "protein": 40.1,
+                "sodium": 0.7797000000000001,
+                "sugar": 3.9
+            },
+            {
+                "date": "2020-04-25",
+                "meal": "dinner",
+                "calories": 475.4,
+                "carbohydrates": 32.9,
+                "fat": 26.1,
+                "satfat": 6.3,
+                "protein": 26.5,
+                "sodium": 1.0094,
+                "sugar": 3.6
+            },
+            {
+                "date": "2020-04-26",
+                "meal": "breakfast",
+                "calories": 463.5,
+                "carbohydrates": 27.2,
+                "fat": 32.7,
+                "satfat": 18.4,
+                "protein": 14.9,
+                "sodium": 0.485,
+                "sugar": 0.4
+            },
+            {
+                "date": "2020-04-26",
+                "meal": "lunch",
+                "calories": 385.6,
+                "carbohydrates": 26.2,
+                "fat": 31.3,
+                "satfat": 19.6,
+                "protein": 2.1,
+                "sodium": 0.5037,
+                "sugar": 3.5
+            },
+            {
+                "date": "2020-04-26",
+                "meal": "dinner",
+                "calories": 550.4,
+                "carbohydrates": 10.6,
+                "fat": 22.1,
+                "satfat": 3.3,
+                "protein": 78.6,
+                "sodium": 0.4137,
+                "sugar": 4.1
+            },
+            {
+                "date": "2020-04-27",
+                "meal": "breakfast",
+                "calories": 163.2,
+                "carbohydrates": 1.3,
+                "fat": 14.3,
+                "satfat": 7.6,
+                "protein": 7.4,
+                "sodium": 0.2022,
+                "sugar": 0.3
+            },
+            {
+                "date": "2020-04-27",
+                "meal": "lunch",
+                "calories": 312.4,
+                "carbohydrates": 52.9,
+                "fat": 11.9,
+                "satfat": 8.9,
+                "protein": 2.6,
+                "sodium": 0.22619999999999998,
+                "sugar": 45.8
+            },
+            {
+                "date": "2020-04-27",
+                "meal": "dinner",
+                "calories": 207.5,
+                "carbohydrates": 34.2,
+                "fat": 7.9,
+                "satfat": 1.1,
+                "protein": 6.9,
+                "sodium": 0.5161,
+                "sugar": 13.9
+            },
+            {
+                "date": "2020-04-28",
+                "meal": "breakfast",
+                "calories": 236.8,
+                "carbohydrates": 31,
+                "fat": 10.8,
+                "satfat": 2.7,
+                "protein": 6.2,
+                "sodium": 0.0269,
+                "sugar": 8.4
+            },
+            {
+                "date": "2020-04-28",
+                "meal": "lunch",
+                "calories": 170.1,
+                "carbohydrates": 13.9,
+                "fat": 9.7,
+                "satfat": 1.2,
+                "protein": 9.4,
+                "sodium": 0.8081,
+                "sugar": 5.9
+            },
+            {
+                "date": "2020-04-28",
+                "meal": "dinner",
+                "calories": 143.4,
+                "carbohydrates": 3,
+                "fat": 3.4,
+                "satfat": 0.9,
+                "protein": 25.6,
+                "sodium": 0.3635,
+                "sugar": 1.6
+            },
+            {
+                "date": "2020-04-29",
+                "meal": "breakfast",
+                "calories": 628.7,
+                "carbohydrates": 93.9,
+                "fat": 24.3,
+                "satfat": 12.2,
+                "protein": 10.1,
+                "sodium": 0.4052,
+                "sugar": 64.3
+            },
+            {
+                "date": "2020-04-29",
+                "meal": "lunch",
+                "calories": 72.6,
+                "carbohydrates": 18.6,
+                "fat": 0.1,
+                "satfat": 0,
+                "protein": 0.4,
+                "sodium": 0.1715,
+                "sugar": 17.4
+            },
+            {
+                "date": "2020-04-29",
+                "meal": "dinner",
+                "calories": 862.6,
+                "carbohydrates": 73.9,
+                "fat": 41.2,
+                "satfat": 19.3,
+                "protein": 48.5,
+                "sodium": 2.0337,
+                "sugar": 9.1
+            },
+            {
+                "date": "2020-04-30",
+                "meal": "breakfast",
+                "calories": 225,
+                "carbohydrates": 33.3,
+                "fat": 9.3,
+                "satfat": 5.4,
+                "protein": 4.9,
+                "sodium": 0.2832,
+                "sugar": 15.3
+            },
+            {
+                "date": "2020-04-30",
+                "meal": "lunch",
+                "calories": 58.1,
+                "carbohydrates": 4.9,
+                "fat": 2.6,
+                "satfat": 1.4,
+                "protein": 2.9,
+                "sodium": 0.052,
+                "sugar": 1.1
+            },
+            {
+                "date": "2020-04-30",
+                "meal": "dinner",
+                "calories": 328.9,
+                "carbohydrates": 66.5,
+                "fat": 4.2,
+                "satfat": 1.7,
+                "protein": 8.7,
+                "sodium": 0.0712,
+                "sugar": 28.6
+            },
+            {
+                "date": "2020-05-01",
+                "meal": "breakfast",
+                "calories": 171.9,
+                "carbohydrates": 37.5,
+                "fat": 1.2,
+                "satfat": 0.6,
+                "protein": 5.7,
+                "sodium": 0.065,
+                "sugar": 23.8
+            },
+            {
+                "date": "2020-05-01",
+                "meal": "lunch",
+                "calories": 383.6,
+                "carbohydrates": 9.7,
+                "fat": 22.2,
+                "satfat": 7.5,
+                "protein": 34.9,
+                "sodium": 0.384,
+                "sugar": 4.1
+            },
+            {
+                "date": "2020-05-01",
+                "meal": "dinner",
+                "calories": 34.8,
+                "carbohydrates": 0,
+                "fat": 0,
+                "satfat": 0,
+                "protein": 0,
+                "sodium": 0,
+                "sugar": 0
+            },
+            {
+                "date": "2020-05-02",
+                "meal": "breakfast",
+                "calories": 1018.4,
+                "carbohydrates": 64.5,
+                "fat": 64.7,
+                "satfat": 24.7,
+                "protein": 41.9,
+                "sodium": 2.1841999999999997,
+                "sugar": 5.5
+            },
+            {
+                "date": "2020-05-02",
+                "meal": "lunch",
+                "calories": 458.4,
+                "carbohydrates": 23.6,
+                "fat": 28,
+                "satfat": 8.3,
+                "protein": 26.6,
+                "sodium": 1.0072,
+                "sugar": 4
+            },
+            {
+                "date": "2020-05-02",
+                "meal": "dinner",
+                "calories": 117,
+                "carbohydrates": 19.2,
+                "fat": 3.7,
+                "satfat": 1.1,
+                "protein": 5.4,
+                "sodium": 0.0888,
+                "sugar": 7.9
+            },
+            {
+                "date": "2020-05-03",
+                "meal": "breakfast",
+                "calories": 798.3,
+                "carbohydrates": 6.5,
+                "fat": 62.9,
+                "satfat": 33.7,
+                "protein": 50.9,
+                "sodium": 1.5685,
+                "sugar": 2.1
+            },
+            {
+                "date": "2020-05-03",
+                "meal": "lunch",
+                "calories": 571.3,
+                "carbohydrates": 66.9,
+                "fat": 29.5,
+                "satfat": 2.6,
+                "protein": 16.6,
+                "sodium": 1.5048,
+                "sugar": 3.1
+            },
+            {
+                "date": "2020-05-03",
+                "meal": "dinner",
+                "calories": 0,
+                "carbohydrates": 0,
+                "fat": 0,
+                "satfat": 0,
+                "protein": 0,
+                "sodium": 0,
+                "sugar": 0
+            },
+            {
+                "date": "2020-05-04",
+                "meal": "breakfast",
+                "calories": 244.5,
+                "carbohydrates": 54,
+                "fat": 1.9,
+                "satfat": 0.5,
+                "protein": 6.8,
+                "sodium": 3.5437,
+                "sugar": 2.8
+            },
+            {
+                "date": "2020-05-04",
+                "meal": "lunch",
+                "calories": 862.6,
+                "carbohydrates": 73.9,
+                "fat": 41.2,
+                "satfat": 19.3,
+                "protein": 48.5,
+                "sodium": 2.0337,
+                "sugar": 9.1
+            },
+            {
+                "date": "2020-05-04",
+                "meal": "dinner",
+                "calories": 404.2,
+                "carbohydrates": 28.7,
+                "fat": 27.3,
+                "satfat": 16,
+                "protein": 5.9,
+                "sodium": 0.0593,
+                "sugar": 17.2
+            },
+            {
+                "date": "2020-05-05",
+                "meal": "breakfast",
+                "calories": 389.5,
+                "carbohydrates": 89.8,
+                "fat": 5.3,
+                "satfat": 2.7,
+                "protein": 4.1,
+                "sodium": 0.035,
+                "sugar": 69.5
+            },
+            {
+                "date": "2020-05-05",
+                "meal": "lunch",
+                "calories": 160.1,
+                "carbohydrates": 37,
+                "fat": 0.5,
+                "satfat": 0.1,
+                "protein": 1.3,
+                "sodium": 0.0177,
+                "sugar": 29.8
+            },
+            {
+                "date": "2020-05-05",
+                "meal": "dinner",
+                "calories": 718.5,
+                "carbohydrates": 19.2,
+                "fat": 54.9,
+                "satfat": 18.7,
+                "protein": 36.2,
+                "sodium": 2.9255999999999998,
+                "sugar": 12.7
+            },
+            {
+                "date": "2020-05-06",
+                "meal": "breakfast",
+                "calories": 417.4,
+                "carbohydrates": 63.3,
+                "fat": 19.4,
+                "satfat": 10.4,
+                "protein": 6.7,
+                "sodium": 0.0076,
+                "sugar": 40.5
+            },
+            {
+                "date": "2020-05-06",
+                "meal": "lunch",
+                "calories": 326.1,
+                "carbohydrates": 50.5,
+                "fat": 10.7,
+                "satfat": 3.7,
+                "protein": 10.6,
+                "sodium": 0.9935,
+                "sugar": 22.2
+            },
+            {
+                "date": "2020-05-06",
+                "meal": "dinner",
+                "calories": 476.6,
+                "carbohydrates": 44.5,
+                "fat": 29.2,
+                "satfat": 6,
+                "protein": 19.2,
+                "sodium": 2.2794,
+                "sugar": 29.9
+            },
+            {
+                "date": "2020-05-07",
+                "meal": "breakfast",
+                "calories": 600.9,
+                "carbohydrates": 94,
+                "fat": 21.6,
+                "satfat": 13.1,
+                "protein": 9.1,
+                "sodium": 0.5896,
+                "sugar": 43.6
+            },
+            {
+                "date": "2020-05-07",
+                "meal": "lunch",
+                "calories": 74.4,
+                "carbohydrates": 1,
+                "fat": 6.5,
+                "satfat": 2.2,
+                "protein": 2.8,
+                "sodium": 0.2081,
+                "sugar": 0.2
+            },
+            {
+                "date": "2020-05-07",
+                "meal": "dinner",
+                "calories": 312.6,
+                "carbohydrates": 17.4,
+                "fat": 13.3,
+                "satfat": 4.3,
+                "protein": 22.9,
+                "sodium": 2.9036,
+                "sugar": 11.4
+            },
+            {
+                "date": "2020-05-08",
+                "meal": "breakfast",
+                "calories": 335.1,
+                "carbohydrates": 25.8,
+                "fat": 23.6,
+                "satfat": 6.5,
+                "protein": 8.5,
+                "sodium": 0.36260000000000003,
+                "sugar": 17.2
+            },
+            {
+                "date": "2020-05-08",
+                "meal": "lunch",
+                "calories": 810.4,
+                "carbohydrates": 153.3,
+                "fat": 23.6,
+                "satfat": 4.8,
+                "protein": 3,
+                "sodium": 1.1957,
+                "sugar": 117.2
+            },
+            {
+                "date": "2020-05-08",
+                "meal": "dinner",
+                "calories": 64.4,
+                "carbohydrates": 6.7,
+                "fat": 2.7,
+                "satfat": 1,
+                "protein": 3.3,
+                "sodium": 0.10690000000000001,
+                "sugar": 4.1
+            },
+            {
+                "date": "2020-05-09",
+                "meal": "breakfast",
+                "calories": 774.2,
+                "carbohydrates": 114.7,
+                "fat": 31.5,
+                "satfat": 5.4,
+                "protein": 10.1,
+                "sodium": 0.4619,
+                "sugar": 47
+            },
+            {
+                "date": "2020-05-09",
+                "meal": "lunch",
+                "calories": 734.4,
+                "carbohydrates": 85.6,
+                "fat": 45.4,
+                "satfat": 27.8,
+                "protein": 6.8,
+                "sodium": 0.0523,
+                "sugar": 59
+            },
+            {
+                "date": "2020-05-09",
+                "meal": "dinner",
+                "calories": 539.5,
+                "carbohydrates": 11.5,
+                "fat": 34.3,
+                "satfat": 18.4,
+                "protein": 46.3,
+                "sodium": 0.6254,
+                "sugar": 1.2
+            },
+            {
+                "date": "2020-05-10",
+                "meal": "breakfast",
+                "calories": 585.4,
+                "carbohydrates": 67.4,
+                "fat": 30.5,
+                "satfat": 4.1,
+                "protein": 18,
+                "sodium": 0.5025,
+                "sugar": 19.3
+            },
+            {
+                "date": "2020-05-10",
+                "meal": "lunch",
+                "calories": 531.6,
+                "carbohydrates": 25,
+                "fat": 33.6,
+                "satfat": 13.5,
+                "protein": 32.4,
+                "sodium": 1.1349,
+                "sugar": 22.8
+            },
+            {
+                "date": "2020-05-10",
+                "meal": "dinner",
+                "calories": 765.9,
+                "carbohydrates": 50.5,
+                "fat": 63.3,
+                "satfat": 9.5,
+                "protein": 3.8,
+                "sodium": 1.3894000000000002,
+                "sugar": 14.7
+            },
+            {
+                "date": "2020-05-11",
+                "meal": "breakfast",
+                "calories": 233.3,
+                "carbohydrates": 18.2,
+                "fat": 12.3,
+                "satfat": 5,
+                "protein": 12.1,
+                "sodium": 0.9163,
+                "sugar": 1.3
+            },
+            {
+                "date": "2020-05-11",
+                "meal": "lunch",
+                "calories": 922.3,
+                "carbohydrates": 232.6,
+                "fat": 0.4,
+                "satfat": 0.1,
+                "protein": 0.3,
+                "sodium": 0.019899999999999998,
+                "sugar": 229
+            },
+            {
+                "date": "2020-05-11",
+                "meal": "dinner",
+                "calories": 543.9,
+                "carbohydrates": 4.9,
+                "fat": 42.6,
+                "satfat": 21.9,
+                "protein": 34.7,
+                "sodium": 1.7406,
+                "sugar": 3.9
+            },
+            {
+                "date": "2020-05-12",
+                "meal": "breakfast",
+                "calories": 480.2,
+                "carbohydrates": 91.2,
+                "fat": 10.9,
+                "satfat": 1.6,
+                "protein": 10.5,
+                "sodium": 0.5588,
+                "sugar": 57.6
+            },
+            {
+                "date": "2020-05-12",
+                "meal": "lunch",
+                "calories": 183.6,
+                "carbohydrates": 32.2,
+                "fat": 4.9,
+                "satfat": 2.9,
+                "protein": 5.5,
+                "sodium": 0.0616,
+                "sugar": 17
+            },
+            {
+                "date": "2020-05-12",
+                "meal": "dinner",
+                "calories": 169.2,
+                "carbohydrates": 16.9,
+                "fat": 6.9,
+                "satfat": 4.1,
+                "protein": 11.9,
+                "sodium": 0.5404,
+                "sugar": 4.1
+            },
+            {
+                "date": "2020-05-13",
+                "meal": "breakfast",
+                "calories": 227.1,
+                "carbohydrates": 30.6,
+                "fat": 9.4,
+                "satfat": 5.9,
+                "protein": 6.3,
+                "sodium": 0.48810000000000003,
+                "sugar": 1.7
+            },
+            {
+                "date": "2020-05-13",
+                "meal": "lunch",
+                "calories": 909.1,
+                "carbohydrates": 81.6,
+                "fat": 43.6,
+                "satfat": 11.2,
+                "protein": 48.1,
+                "sodium": 1.3607,
+                "sugar": 23.6
+            },
+            {
+                "date": "2020-05-13",
+                "meal": "dinner",
+                "calories": 657.1,
+                "carbohydrates": 43.2,
+                "fat": 41.5,
+                "satfat": 11,
+                "protein": 24,
+                "sodium": 0.4155,
+                "sugar": 2.7
+            },
+            {
+                "date": "2020-05-14",
+                "meal": "breakfast",
+                "calories": 191,
+                "carbohydrates": 2.6,
+                "fat": 19.6,
+                "satfat": 8.6,
+                "protein": 1.9,
+                "sodium": 0.3112,
+                "sugar": 0.3
+            },
+            {
+                "date": "2020-05-14",
+                "meal": "lunch",
+                "calories": 447.8,
+                "carbohydrates": 62.6,
+                "fat": 20.7,
+                "satfat": 7.9,
+                "protein": 4.8,
+                "sodium": 0.30269999999999997,
+                "sugar": 31.4
+            },
+            {
+                "date": "2020-05-14",
+                "meal": "dinner",
+                "calories": 1153.5,
+                "carbohydrates": 70.8,
+                "fat": 76,
+                "satfat": 36.7,
+                "protein": 42.2,
+                "sodium": 1.8660999999999999,
+                "sugar": 2
+            },
+            {
+                "date": "2020-05-15",
+                "meal": "breakfast",
+                "calories": 456.9,
+                "carbohydrates": 44.9,
+                "fat": 24.6,
+                "satfat": 7.1,
+                "protein": 14,
+                "sodium": 0.8227000000000001,
+                "sugar": 3.8
+            },
+            {
+                "date": "2020-05-15",
+                "meal": "lunch",
+                "calories": 384.8,
+                "carbohydrates": 26.5,
+                "fat": 17.9,
+                "satfat": 4,
+                "protein": 28.2,
+                "sodium": 0.9081,
+                "sugar": 4.4
+            },
+            {
+                "date": "2020-05-15",
+                "meal": "dinner",
+                "calories": 570,
+                "carbohydrates": 39.3,
+                "fat": 30.2,
+                "satfat": 2.4,
+                "protein": 37.2,
+                "sodium": 1.4487999999999999,
+                "sugar": 5
+            },
+            {
+                "date": "2020-05-16",
+                "meal": "breakfast",
+                "calories": 407,
+                "carbohydrates": 13.3,
+                "fat": 35.1,
+                "satfat": 20.5,
+                "protein": 10.8,
+                "sodium": 0.26780000000000004,
+                "sugar": 8.2
+            },
+            {
+                "date": "2020-05-16",
+                "meal": "lunch",
+                "calories": 387.4,
+                "carbohydrates": 8.2,
+                "fat": 14.8,
+                "satfat": 8.1,
+                "protein": 53.2,
+                "sodium": 0.8392000000000001,
+                "sugar": 6.4
+            },
+            {
+                "date": "2020-05-16",
+                "meal": "dinner",
+                "calories": 206.1,
+                "carbohydrates": 16.9,
+                "fat": 14.5,
+                "satfat": 1.5,
+                "protein": 5.8,
+                "sodium": 0.6738999999999999,
+                "sugar": 11.9
+            },
+            {
+                "date": "2020-05-17",
+                "meal": "breakfast",
+                "calories": 237.6,
+                "carbohydrates": 31,
+                "fat": 9.7,
+                "satfat": 4,
+                "protein": 7.4,
+                "sodium": 0.5534,
+                "sugar": 3.8
+            },
+            {
+                "date": "2020-05-17",
+                "meal": "lunch",
+                "calories": 426.1,
+                "carbohydrates": 29.4,
+                "fat": 26.4,
+                "satfat": 10.1,
+                "protein": 19.4,
+                "sodium": 1.0792,
+                "sugar": 7
+            },
+            {
+                "date": "2020-05-17",
+                "meal": "dinner",
+                "calories": 611.6,
+                "carbohydrates": 19.4,
+                "fat": 41.6,
+                "satfat": 23.1,
+                "protein": 39.8,
+                "sodium": 1.0258,
+                "sugar": 3.4
+            },
+            {
+                "date": "2020-05-18",
+                "meal": "breakfast",
+                "calories": 240.9,
+                "carbohydrates": 0,
+                "fat": 27.2,
+                "satfat": 3.5,
+                "protein": 0,
+                "sodium": 0,
+                "sugar": 0
+            },
+            {
+                "date": "2020-05-18",
+                "meal": "lunch",
+                "calories": 489.4,
+                "carbohydrates": 72.2,
+                "fat": 12.5,
+                "satfat": 5.3,
+                "protein": 22.5,
+                "sodium": 1.2234,
+                "sugar": 2.7
+            },
+            {
+                "date": "2020-05-18",
+                "meal": "dinner",
+                "calories": 69.4,
+                "carbohydrates": 0,
+                "fat": 0,
+                "satfat": 0,
+                "protein": 0,
+                "sodium": 0.0003,
+                "sugar": 0
+            },
+            {
+                "date": "2020-05-19",
+                "meal": "breakfast",
+                "calories": 254.8,
+                "carbohydrates": 30.6,
+                "fat": 7.7,
+                "satfat": 2.1,
+                "protein": 14.8,
+                "sodium": 0.394,
+                "sugar": 3.9
+            },
+            {
+                "date": "2020-05-19",
+                "meal": "lunch",
+                "calories": 271.1,
+                "carbohydrates": 19.3,
+                "fat": 13.8,
+                "satfat": 5.5,
+                "protein": 18.2,
+                "sodium": 1.1969,
+                "sugar": 17.9
+            },
+            {
+                "date": "2020-05-19",
+                "meal": "dinner",
+                "calories": 341.8,
+                "carbohydrates": 59.6,
+                "fat": 11.8,
+                "satfat": 7.1,
+                "protein": 3,
+                "sodium": 0.4062,
+                "sugar": 0
+            },
+            {
+                "date": "2020-05-20",
+                "meal": "breakfast",
+                "calories": 721.5,
+                "carbohydrates": 16.1,
+                "fat": 52.4,
+                "satfat": 22.3,
+                "protein": 44.7,
+                "sodium": 1.7239,
+                "sugar": 1.1
+            },
+            {
+                "date": "2020-05-20",
+                "meal": "lunch",
+                "calories": 148.5,
+                "carbohydrates": 23,
+                "fat": 3.5,
+                "satfat": 1.3,
+                "protein": 5.9,
+                "sodium": 0.6133,
+                "sugar": 4.5
+            },
+            {
+                "date": "2020-05-20",
+                "meal": "dinner",
+                "calories": 176.8,
+                "carbohydrates": 7.2,
+                "fat": 14,
+                "satfat": 6.4,
+                "protein": 6.5,
+                "sodium": 0.3916,
+                "sugar": 2.4
+            },
+            {
+                "date": "2020-05-21",
+                "meal": "breakfast",
+                "calories": 348.9,
+                "carbohydrates": 7.3,
+                "fat": 24.3,
+                "satfat": 11.2,
+                "protein": 24.3,
+                "sodium": 0.2906,
+                "sugar": 1.8
+            },
+            {
+                "date": "2020-05-21",
+                "meal": "lunch",
+                "calories": 766.6,
+                "carbohydrates": 4.1,
+                "fat": 66.5,
+                "satfat": 32.3,
+                "protein": 35.4,
+                "sodium": 0.2248,
+                "sugar": 1.3
+            },
+            {
+                "date": "2020-05-21",
+                "meal": "dinner",
+                "calories": 30.3,
+                "carbohydrates": 0.7,
+                "fat": 2.2,
+                "satfat": 0.3,
+                "protein": 1.9,
+                "sodium": 0.046200000000000005,
+                "sugar": 0.1
+            },
+            {
+                "date": "2020-05-22",
+                "meal": "breakfast",
+                "calories": 121.5,
+                "carbohydrates": 23.1,
+                "fat": 2.1,
+                "satfat": 0.9,
+                "protein": 3.3,
+                "sodium": 0.1856,
+                "sugar": 5.9
+            },
+            {
+                "date": "2020-05-22",
+                "meal": "lunch",
+                "calories": 336.4,
+                "carbohydrates": 32.5,
+                "fat": 11.7,
+                "satfat": 5.1,
+                "protein": 24.6,
+                "sodium": 0.3425,
+                "sugar": 4.6
+            },
+            {
+                "date": "2020-05-22",
+                "meal": "dinner",
+                "calories": 290.7,
+                "carbohydrates": 5.1,
+                "fat": 18.9,
+                "satfat": 5.4,
+                "protein": 23.8,
+                "sodium": 0.1138,
+                "sugar": 0.6
+            },
+            {
+                "date": "2020-05-23",
+                "meal": "breakfast",
+                "calories": 836,
+                "carbohydrates": 34.3,
+                "fat": 71.3,
+                "satfat": 14.9,
+                "protein": 17.5,
+                "sodium": 0.4752,
+                "sugar": 1.5
+            },
+            {
+                "date": "2020-05-23",
+                "meal": "lunch",
+                "calories": 183.4,
+                "carbohydrates": 25.1,
+                "fat": 7.3,
+                "satfat": 1,
+                "protein": 4.1,
+                "sodium": 0.24130000000000001,
+                "sugar": 0.6
+            },
+            {
+                "date": "2020-05-23",
+                "meal": "dinner",
+                "calories": 646.7,
+                "carbohydrates": 5.7,
+                "fat": 43.2,
+                "satfat": 16.8,
+                "protein": 53.8,
+                "sodium": 0.6567999999999999,
+                "sugar": 0.3
+            },
+            {
+                "date": "2020-05-24",
+                "meal": "breakfast",
+                "calories": 189.3,
+                "carbohydrates": 33.8,
+                "fat": 5.9,
+                "satfat": 0.9,
+                "protein": 3.5,
+                "sodium": 0.0391,
+                "sugar": 16.5
+            },
+            {
+                "date": "2020-05-24",
+                "meal": "lunch",
+                "calories": 39.4,
+                "carbohydrates": 4.2,
+                "fat": 2.4,
+                "satfat": 0.6,
+                "protein": 0.8,
+                "sodium": 0.0022,
+                "sugar": 3.1
+            },
+            {
+                "date": "2020-05-24",
+                "meal": "dinner",
+                "calories": 496.6,
+                "carbohydrates": 9.2,
+                "fat": 35.2,
+                "satfat": 12.2,
+                "protein": 33,
+                "sodium": 0.187,
+                "sugar": 2.5
+            }
+        ]
+    },
+    "guidelines": {
+        "DG02": {
+            "foodHists": {
+                "datapoints": [
+                    {
+                        "date": "2020-04-20T00:00:00Z",
+                        "Breakfast": 0.0,
+                        "Lunch": 72.2,
+                        "Dinner": 0.0,
+                        "carbohydrates": 72.2
+                    },
+                    {
+                        "date": "2020-04-21T00:00:00Z",
+                        "Breakfast": 30.6,
+                        "Lunch": 19.3,
+                        "Dinner": 59.6,
+                        "carbohydrates": 109.5
+                    },
+                    {
+                        "date": "2020-04-22T00:00:00Z",
+                        "Breakfast": 16.1,
+                        "Lunch": 23.0,
+                        "Dinner": 7.2,
+                        "carbohydrates": 46.3
+                    },
+                    {
+                        "date": "2020-04-23T00:00:00Z",
+                        "Breakfast": 7.3,
+                        "Lunch": 4.1,
+                        "Dinner": 0.7,
+                        "carbohydrates": 12.1
+                    },
+                    {
+                        "date": "2020-04-24T00:00:00Z",
+                        "Breakfast": 32.5,
+                        "Lunch": 5.1,
+                        "Dinner": 34.3,
+                        "carbohydrates": 71.9
+                    },
+                    {
+                        "date": "2020-04-25T00:00:00Z",
+                        "Breakfast": 34.3,
+                        "Lunch": 25.1,
+                        "Dinner": 5.7,
+                        "carbohydrates": 65.1
+                    },
+                    {
+                        "date": "2020-04-26T00:00:00Z",
+                        "Breakfast": 33.8,
+                        "Lunch": 4.2,
+                        "Dinner": 9.2,
+                        "carbohydrates": 46.2
+                    }
+                ]
+            },
+            "variable": "carbohydrates",
+            "summary": "This past full week, you have done slightly well at keeping your carbohydrate intake relatively fixed.",
+            "truth": 1,
+            "adherence": "red",
+            "weekly_average": 19.7,
+            "recommendation": "Maintain a consistent level of carbohydrates throughout the day.",
+            "status": "Room for Improvement",
+            "advice": "To help maintain a relatively fixed carbohydrate intake, consider increasing your carbohydrate intake at dinner.",
+            "applies": [
+                "You are on fixed insulin dosing."
+            ],
+            "source": [
+                "ADA Dietary Guidelines, Chapter 5, Guideline 2: \"Patients with Type 1 and Type 2 Diabetes on a constant level of insulin therapy are advised to maintain a consistent level of carbohydrates throughout the day.\""
+            ]
+        },
+        "DG05": {
+            "foodHists": {
+                "datapoints": [
+                    {
+                        "carbohydrates": 49.4,
+                        "fat": 70.5,
+                        "date": "2020-04-20T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 56.0,
+                        "fat": 58.2,
+                        "date": "2020-04-21T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 80.4,
+                        "fat": 42.3,
+                        "date": "2020-04-22T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 104.4,
+                        "fat": 27.4,
+                        "date": "2020-04-23T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 62.4,
+                        "fat": 110.5,
+                        "date": "2020-04-24T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 89.0,
+                        "fat": 84.3,
+                        "date": "2020-04-25T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 64.0,
+                        "fat": 86.1,
+                        "date": "2020-04-26T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 88.4,
+                        "fat": 34.1,
+                        "date": "2020-04-27T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 47.9,
+                        "fat": 23.9,
+                        "date": "2020-04-28T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 186.4,
+                        "fat": 65.6,
+                        "date": "2020-04-29T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 104.7,
+                        "fat": 16.1,
+                        "date": "2020-04-30T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 47.2,
+                        "fat": 23.4,
+                        "date": "2020-05-01T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 107.3,
+                        "fat": 96.4,
+                        "date": "2020-05-02T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 73.4,
+                        "fat": 92.4,
+                        "date": "2020-05-03T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 156.6,
+                        "fat": 70.4,
+                        "date": "2020-05-04T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 146.0,
+                        "fat": 60.7,
+                        "date": "2020-05-05T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 158.3,
+                        "fat": 59.3,
+                        "date": "2020-05-06T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 112.4,
+                        "fat": 41.4,
+                        "date": "2020-05-07T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 185.8,
+                        "fat": 49.9,
+                        "date": "2020-05-08T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 211.8,
+                        "fat": 111.2,
+                        "date": "2020-05-09T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 142.9,
+                        "fat": 127.4,
+                        "date": "2020-05-10T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 255.7,
+                        "fat": 55.3,
+                        "date": "2020-05-11T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 140.3,
+                        "fat": 22.7,
+                        "date": "2020-05-12T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 155.4,
+                        "fat": 94.5,
+                        "date": "2020-05-13T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 136.0,
+                        "fat": 116.3,
+                        "date": "2020-05-14T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 110.7,
+                        "fat": 72.7,
+                        "date": "2020-05-15T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 38.4,
+                        "fat": 64.4,
+                        "date": "2020-05-16T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 79.8,
+                        "fat": 77.7,
+                        "date": "2020-05-17T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 72.2,
+                        "fat": 39.7,
+                        "date": "2020-05-18T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 109.5,
+                        "fat": 33.3,
+                        "date": "2020-05-19T00:00:00Z"
+                    }
+                ]
+            },
+            "variable": "carbohydrates",
+            "summary": "You have not been conforming to a high-carb, low-fat diet.",
+            "adherence": "green",
+            "status": "Making Great Progress",
+            "frequency": 0.0,
+            "recommendation": "Avoid following a high-carb, low-fat diet.",
+            "advice": "Avoid following a high-carb, low-fat diet.",
+            "applies": [
+                "You are diabetic."
+            ],
+            "source": [
+                "ADA Dietary Guidelines, Chapter 5, Guideline 5: \"An eating plan emphasizing elements of a Mediterranean-style diet rich in monounsaturated and polyunsaturated fats may be considered to improve glucose metabolism and lower cardiovascular disease risk and can be an effective alternative to a diet low in total fat but relatively high in carbohydrates.\""
+            ]
+        },
+        "DG17": {
+            "foodHists": {
+                "datapoints": [
+                    {
+                        "carbohydrates": 49.4,
+                        "date": "2020-04-20T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 56.0,
+                        "date": "2020-04-21T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 80.4,
+                        "date": "2020-04-22T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 104.4,
+                        "date": "2020-04-23T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 62.4,
+                        "date": "2020-04-24T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 89.0,
+                        "date": "2020-04-25T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 64.0,
+                        "date": "2020-04-26T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 88.4,
+                        "date": "2020-04-27T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 47.9,
+                        "date": "2020-04-28T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 186.4,
+                        "date": "2020-04-29T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 104.7,
+                        "date": "2020-04-30T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 47.2,
+                        "date": "2020-05-01T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 107.3,
+                        "date": "2020-05-02T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 73.4,
+                        "date": "2020-05-03T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 156.6,
+                        "date": "2020-05-04T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 146.0,
+                        "date": "2020-05-05T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 158.3,
+                        "date": "2020-05-06T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 112.4,
+                        "date": "2020-05-07T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 185.8,
+                        "date": "2020-05-08T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 211.8,
+                        "date": "2020-05-09T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 142.9,
+                        "date": "2020-05-10T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 255.7,
+                        "date": "2020-05-11T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 140.3,
+                        "date": "2020-05-12T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 155.4,
+                        "date": "2020-05-13T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 136.0,
+                        "date": "2020-05-14T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 110.7,
+                        "date": "2020-05-15T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 38.4,
+                        "date": "2020-05-16T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 79.8,
+                        "date": "2020-05-17T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 72.2,
+                        "date": "2020-05-18T00:00:00Z"
+                    },
+                    {
+                        "carbohydrates": 109.5,
+                        "date": "2020-05-19T00:00:00Z"
+                    }
+                ]
+            },
+            "variable": "carbohydrates",
+            "summary": "On more than half of the days in the past month, you followed a low-carbohydrate eating plan.",
+            "adherence": "yellow",
+            "frequency": 0.6,
+            "recommendation": "Follow a low-carbohydrate plan.",
+            "status": "Making Great Progress",
+            "advice": "Lower your carbohydrate intake.",
+            "applies": [],
+            "source": [
+                "ADA Dietary Guidelines, Chapter 5, Guideline 17: \"For people with type 2 diabetes or prediabetes, low-carbohydrate eating plans show potential to improve glycemia and lipid outcomes for up to 1 year.\""
+            ],
+            "daily_advice": "You should make sure to lower your carbohydrate intake.",
+            "advice_details": "It is important to focus on following your low-carbohydrate plan."
+        }
+    }
+}

@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  mongo:
+    container_name: mongo
+    image: mongo:5.0.2-focal
+    restart: always
+  persona-store:
+    container_name: persona-store
+    build: ./
+    ports:
+      # expose container port 80 as host port 8080
+      - "8080:80"
+    environment:
+      - MONGO_URL="mongodb://mongo:27017/"
+      - MONGO_DB=persona
+
